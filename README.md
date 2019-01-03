@@ -10,8 +10,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage Instructions
-1. Linear_regression_basics:
+### 1. Linear_regression_basics:
 This file covers
-- Simple linear regression
-- Multivariate linear regression
-- Polynomial linear regression with validation-set based model complexity selection
+  - Simple linear regression
+  - Multivariate linear regression
+  - Polynomial linear regression with validation-set based model complexity selection
