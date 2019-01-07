@@ -24,4 +24,4 @@ This file covers:
 ### 3. K-NN regression:
 This file covers K-NN regression, captain obvious!
 
-I have borrowed heavily from University of Washington's coursera course on Machine Learning in preparing the materials.
+I have borrowed heavily from University of Washington's Machine Learning course on Coursera in compiling the materials.
